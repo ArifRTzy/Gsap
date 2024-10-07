@@ -44,18 +44,18 @@ const GsapScrollTrigger = () => {
         With ScrollTrigger, you can define various actions to be triggered at
         specific scroll points, such as starting or ending an animation,
         scrubbing through animations as the user scrolls, pinning elements to
-        the screen, and more.{" "}
+        the screen, and more.{" "}//menambah space atau spasi
       </p>
 
       <p className="mt-5 text-gray-500">
         Read more about the{" "}
         <a
           href="https://gsap.com/docs/v3/Plugins/ScrollTrigger/"
-          target="_blank"
-          rel="noreferrer noopener nofollow"
+          target="_blank"//tab baru 
+          rel="noreferrer noopener nofollow"//secure the website
         >
           gsap scroll trigger
-        </a>{" "}
+        </a>{" "}//menambahkan spasi
         method.
       </p>
 
